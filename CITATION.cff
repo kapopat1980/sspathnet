@@ -1,0 +1,22 @@
+# TODO: replace every [placeholder] before publishing the repository.
+cff-version: 1.2.0
+message: "If you use this code or the reported results, please cite the paper below."
+title: "SSPathNet on PlantVillage: code and results for a controlled study of a spectro-spatial hybrid network"
+type: software
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+    affiliation: "[Affiliation]"
+repository-code: "https://github.com/[user]/sspathnet-plantvillage"
+license: MIT
+version: 1.0.0
+date-released: "[YYYY-MM-DD]"
+preferred-citation:
+  type: article
+  title: "Does Architectural Novelty Pay Off on a Saturated Benchmark? A Controlled Study of a Spectro-Spatial Hybrid Network for Plant Disease Classification"
+  authors:
+    - family-names: "[Surname]"
+      given-names: "[Given name]"
+  journal: "[Journal]"
+  year: "[Year]"
+  doi: "[DOI]"
